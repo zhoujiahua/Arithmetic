@@ -1,2 +1,2 @@
-# Tools
-常用工具整理
+# Arithmetic
+This is an algorithmic knowledge of javascript!
